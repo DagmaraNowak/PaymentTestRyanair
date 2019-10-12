@@ -1,0 +1,26 @@
+{
+  "name": "paymenttest-ryanair",
+  "version": "1.0.0",
+  "description": "",
+  "main": "protractor.conf.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DagmaraNowak/Ryanair_PaymentTest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DagmaraNowak/Ryanair_PaymentTest/issues"
+  },
+  "homepage": "https://github.com/DagmaraNowak/Ryanair_PaymentTest#readme",
+  "dependencies": {
+    "protractor": "^5.4.2",
+    "protractor-html-reporter-2": "^1.0.4"
+  }
+}
